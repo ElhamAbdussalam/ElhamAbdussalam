@@ -6,10 +6,10 @@ I'm a fresh graduate with a passion for becoming a full stack developer passiona
 ### 👨‍💻 About Me
 
 - 🎓 Fresh graduate with a degree in Informatics Engineering
-- 💻 Full stack developer with experience in JavaScript, Node.js, React, and Express.js
-- 🌐 Interested in cloud technologies and scalable web architectures
-- 📚 Constant learner, currently exploring advanced backend frameworks and API design
-- 🤝 Looking to collaborate on innovative projects that make an impact
+- 💻 Full stack developer with experience in the MERN Stack (MongoDB, Express.js, React, Node.js)
+- 🌐 Passionate about building dynamic, responsive, and scalable web applications
+- 📚 Lifelong learner, currently exploring advanced backend architecture, RESTful APIs, and deployment strategies
+- 🤝 Eager to collaborate on impactful projects that solve real-world problems through technology
 
 ### 🛠️ Tech Stack
 
