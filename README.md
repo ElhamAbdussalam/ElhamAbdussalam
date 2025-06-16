@@ -56,11 +56,11 @@ I'm a fresh graduate with a passion for becoming a full stack developer passiona
 Thanks for visiting my profile, and feel free to reach out if you'd like to collaborate or just say hi! 😊
 
 ###
-/*
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ElhamAbdussalam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-*/
+
 
 ###
 
