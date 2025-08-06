@@ -1,4 +1,4 @@
-// ![M Elham Abdussalam](image.png)
+![M Elham Abdussalam](image.png)
 
 <!--
 Fresh graduate passionate about becoming a Full Stack Developer. I love building modern, scalable, and user-friendly web applications. With a solid foundation in both front-end and back-end technologies, I bridge the gap between design and functionality.
