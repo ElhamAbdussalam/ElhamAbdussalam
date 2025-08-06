@@ -1,11 +1,10 @@
-
 <!--
-Fresh graduate passionate about becoming a Front End Developer. I love building modern, responsive, and user-friendly web applications. With a strong foundation in front-end technologies and design thinking, I strive to craft smooth and intuitive user experiences.
+Fresh graduate passionate about becoming a Full Stack Developer. I love building modern, responsive, and user-friendly web applications. With a strong foundation in both front-end and back-end technologies, I strive to craft smooth and intuitive user experiences.
 -->
 
 # 👨‍💻 Hi there, I'm M Elham Abdussalam!
 
-_A Front End Developer with a creative mind and a passion for technology_
+_A Full Stack Developer (Front End Focused) with a creative mind and a passion for technology_
 
 ---
 
@@ -14,12 +13,13 @@ _A Front End Developer with a creative mind and a passion for technology_
 - 🎓 Fresh graduate in Informatics Engineering  
 - 🧠 Curious lifelong learner & design enthusiast  
 - 💻 Front End developer passionate about creating intuitive UIs  
-- 🛠️ Skilled in modern frameworks like React, Next.js, and Vue  
+- 🌐 Exploring Full Stack Development using PHP, Laravel, and MySQL  
+- 🛠️ Skilled in modern frameworks like React, Next.js, Vue, and Laravel  
 - 🤝 Open to collaboration on impactful and user-centric projects  
 
 ---
 
-## 🧰 Front End Developer Tech Stack
+## 🧰 Tech Stack Overview
 
 ### 🎨 Frontend
 <div>
@@ -33,6 +33,16 @@ _A Front End Developer with a creative mind and a passion for technology_
   <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+</div>
+
+### 🖥️ Backend (PHP Full Stack)
+<div>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 
 ### 🔧 Tools & Design
