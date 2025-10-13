@@ -1,41 +1,44 @@
 <!--
-Fresh graduate passionate about becoming a Full Stack Developer. I love building modern, responsive, and user-friendly web applications. With a strong foundation in both front-end and back-end technologies, I strive to craft smooth and intuitive user experiences.
+Front End Developer passionate about crafting modern, responsive, and user-friendly web applications.  
+Focused on building Full Stack solutions using React, Vue, Next.js, and PHP (Laravel).
 -->
 
 # 👨‍💻 Hi there, I'm M Elham Abdussalam!
 
-_A Full Stack Developer (Front End Focused) with a creative mind and a passion for technology_
+_A Front End Developer | React & Vue Enthusiast | Full Stack with Next.js & PHP (Laravel)_
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 Fresh graduate in Informatics Engineering  
-- 🧠 Curious lifelong learner & design enthusiast  
-- 💻 Front End developer passionate about creating intuitive UIs  
-- 🌐 Exploring Full Stack Development using PHP, Laravel, and MySQL  
-- 🛠️ Skilled in modern frameworks like React, Next.js, Vue, and Laravel  
-- 🤝 Open to collaboration on impactful and user-centric projects  
+- 🧠 Creative problem solver and UI/UX enthusiast  
+- 💻 Specialized in building interactive interfaces with **React** and **Vue**  
+- 🌐 Exploring Full Stack development using **Next.js** and **Laravel**  
+- 🛠️ Passionate about performance, clean architecture, and reusability  
+- 🤝 Open to collaboration on modern, scalable web projects  
 
 ---
 
 ## 🧰 Tech Stack Overview
 
-### 🎨 Frontend
+### 🎨 Frontend (Focus: React & Vue)
 <div>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+  <img src="https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=react-query&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinia-42B883?style=for-the-badge&logo=vue.js&logoColor=white" />
 </div>
 
-### 🖥️ Backend (PHP Full Stack)
+### 🖥️ Backend (Full Stack Side)
 <div>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -45,14 +48,13 @@ _A Full Stack Developer (Front End Focused) with a creative mind and a passion f
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 
-### 🔧 Tools & Design
+### 🧑‍🎨 Design & Tools
 <div>
-  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
 
 ---
@@ -93,10 +95,10 @@ _A Full Stack Developer (Front End Focused) with a creative mind and a passion f
 
 ## 📫 Let's Connect!
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/m-elham-abdussalam)
-- 🐱 [GitHub](https://github.com/ElhamAbdussalam)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/m-elham-abdussalam)  
+- 🐱 [GitHub](https://github.com/ElhamAbdussalam)  
 - ✉️ Email: **abdussalamelham@gmail.com**
 
 ---
 
-💬 _Thanks for visiting! Let’s build visually stunning and user-friendly web experiences together._ 🚀
+💬 _Thanks for visiting! Let’s build modern, reactive, and user-friendly web experiences together._ 🚀
