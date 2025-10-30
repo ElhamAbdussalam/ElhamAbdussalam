@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=M%20Elham%20Abdussalam&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20PHP%20Developer%20|%20Front%20End%20Specialist&descAlignY=51&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=M%20Elham%20Abdussalam&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20PHP%20Developer%20|%20Front%20End%20Specialist&descAlignY=51&descSize=20)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=true&width=600&lines=Full+Stack+PHP+Developer+%F0%9F%9A%80;Front+End+Specialist+%F0%9F%8E%A8;Building+Modern+Web+Apps+%F0%9F%92%BB;React+%7C+Vue+%7C+Laravel+%E2%9C%A8;Turning+Coffee+into+Code+%E2%98%95;Let's+Build+Something+Amazing!+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=true&width=600&lines=Full+Stack+PHP+Developer+%F0%9F%9A%80;Front+End+Specialist+%F0%9F%8E%A8;Building+Modern+Web+Apps+%F0%9F%92%BB;React+%7C+Vue+%7C+Laravel+%E2%9C%A8;Turning+Coffee+into+Code+%E2%98%95;Performance+%26+Clean+Code+%F0%9F%94%A5;Open+for+Collaboration+%F0%9F%A4%9D;Let's+Build+Together!+%F0%9F%8C%9F" alt="Typing SVG" />
 
 <br/>
 
@@ -53,6 +53,8 @@ const elham = {
 - 💡 Expert in modern frontend frameworks (React & Vue.js)
 - 🚀 Building complete web applications from database to UI
 - 🤝 Love collaborating on **full stack** projects
+- 🔧 Seamless API & frontend integration
+- 📱 Responsive & interactive user interfaces
 
 </td>
 <td width="50%">
@@ -124,13 +126,20 @@ const elham = {
 ## 📊 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ElhamAbdussalam&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=fff" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ElhamAbdussalam&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=fff" alt="GitHub Streak" />
+  
+<a href="https://github.com/ElhamAbdussalam">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ElhamAbdussalam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ElhamAbdussalam&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElhamAbdussalam&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=fff" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ElhamAbdussalam&theme=redical&bg_color=0D1117&color=F85D7F&line=F8D866&point=fff&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElhamAbdussalam&theme=algolia&hide_border=false" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElhamAbdussalam&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
@@ -139,7 +148,7 @@ const elham = {
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=ElhamAbdussalam&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ElhamAbdussalam&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -182,11 +191,31 @@ const elham = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-## 🐍 Contribution Snake
+## 🐍 My Contributions
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElhamAbdussalam/ElhamAbdussalam/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ElhamAbdussalam/ElhamAbdussalam/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ElhamAbdussalam/ElhamAbdussalam/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
+
+## 📈 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> Detailed Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElhamAbdussalam&theme=algolia" alt="Profile Details" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElhamAbdussalam&theme=algolia" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ElhamAbdussalam&theme=algolia" alt="Most Commit Language" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElhamAbdussalam&theme=algolia" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ElhamAbdussalam&theme=algolia&utcOffset=7" alt="Productive Time" />
 
 </div>
 
@@ -200,7 +229,7 @@ const elham = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=true&width=600&lines=%E2%9C%A8+Thanks+for+visiting!+%E2%9C%A8;%F0%9F%92%BB+Let's+collaborate!+%F0%9F%92%BB;%F0%9F%9A%80+Open+for+opportunities!+%F0%9F%9A%80;%E2%98%95+Coffee+%2B+Code+%3D+Magic!+%E2%98%95" alt="Footer Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=true&width=600&lines=%E2%9C%A8+Thanks+for+visiting!+%E2%9C%A8;%F0%9F%92%BB+Let's+collaborate!+%F0%9F%92%BB;%F0%9F%9A%80+Open+for+opportunities!+%F0%9F%9A%80;%E2%98%95+Coffee+%2B+Code+%3D+Magic!+%E2%98%95;%F0%9F%94%A5+Building+amazing+things!+%F0%9F%94%A5;%F0%9F%8C%9F+Let's+create+together!+%F0%9F%8C%9F" alt="Footer Typing" />
 
 <br/>
 
@@ -208,9 +237,9 @@ const elham = {
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ElhamAbdussalam&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/ElhamAbdussalam?style=for-the-badge&color=blue&labelColor=1a1a1a)
-![Stars](https://img.shields.io/github/stars/ElhamAbdussalam?style=for-the-badge&color=yellow&labelColor=1a1a1a)
+![Profile Views](https://komarev.com/ghpvc/?username=ElhamAbdussalam&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/ElhamAbdussalam?style=for-the-badge&color=blue&labelColor=1a1a1a&logo=github)
+![Stars](https://img.shields.io/github/stars/ElhamAbdussalam?style=for-the-badge&color=yellow&labelColor=1a1a1a&logo=github)
 
 <br/>
 
@@ -220,6 +249,6 @@ const elham = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=fadeIn)
 
 </div>
