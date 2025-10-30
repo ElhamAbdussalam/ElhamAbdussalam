@@ -2,14 +2,22 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=M%20Elham%20Abdussalam&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20PHP%20Developer%20|%20Front%20End%20Specialist&descAlignY=51&descSize=20)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+PHP+Developer+%F0%9F%9A%80;Front+End+Specialist+%F0%9F%8E%A8;Building+Modern+Web+Apps+%F0%9F%92%BB;React+%7C+Vue+%7C+Laravel+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=true&width=600&lines=Full+Stack+PHP+Developer+%F0%9F%9A%80;Front+End+Specialist+%F0%9F%8E%A8;Building+Modern+Web+Apps+%F0%9F%92%BB;React+%7C+Vue+%7C+Laravel+%E2%9C%A8;Turning+Coffee+into+Code+%E2%98%95;Let's+Build+Something+Amazing!+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/m-elham-abdussalam)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/ElhamAbdussalam)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:abdussalamelham@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox&logoColor=white&labelColor=FF7139)](#)
+<a href="https://www.linkedin.com/in/m-elham-abdussalam">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
+</a>
+<a href="https://github.com/ElhamAbdussalam">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
+</a>
+<a href="mailto:abdussalamelham@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox&logoColor=white&labelColor=FF7139" alt="Portfolio" />
+</a>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -19,17 +27,21 @@
 
 ## 🎯 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> About Me
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 ```javascript
 const elham = {
   education: "🎓 Informatics Engineering Graduate",
   role: "💼 Full Stack PHP Developer",
   specialization: "🎨 Front End Development",
   expertise: ["🔥 Laravel", "⚛️ React", "💚 Vue.js", "🌐 RESTful APIs"],
-  currentFocus: "Building scalable web applications with PHP & modern JS frameworks",
+  currentFocus: "Building scalable web applications",
   funFact: "☕ Coffee → 💻 Full Stack Solutions",
-  motto: "✨ Write code that humans can read, not just machines"
+  motto: "✨ Write code for humans"
 };
 ```
+
+<br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
@@ -45,10 +57,7 @@ const elham = {
 </td>
 <td width="50%">
 
-- 🔧 Seamless API & frontend integration
-- 📱 Responsive & interactive user interfaces
-- 🌈 Focus on clean code & architecture
-- 📚 Always learning & improving
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
 
 </td>
 </tr>
@@ -56,9 +65,20 @@ const elham = {
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
+
 ## 🛠️ <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
 
 ### 🎨 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -123,21 +143,19 @@ const elham = {
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
 
 ## 🎓 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> What I'm Learning
 
+<img align="right" alt="Learning" width="300" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
+
 <table>
 <tr>
-<td width="50%">
+<td width="60%">
 
 - 🔥 **Advanced Laravel Patterns** & Architecture
 - 🌊 Modern **Frontend State Management** (Redux, Pinia)
 - 🎨 **Microservices** with PHP & Docker
-
-</td>
-<td width="50%">
-
 - 🔧 **GraphQL API** Development
 - 📱 **Progressive Web Apps** with Laravel & Vue/React
 - 🚀 **Performance Optimization** (Backend & Frontend)
@@ -146,11 +164,15 @@ const elham = {
 </tr>
 </table>
 
+<br clear="right"/>
+
 ---
 
 ## 💼 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> Open For Opportunities
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
 
 | 💻 Full Stack PHP | 🎨 Frontend Dev | 🤝 Open Source | 🎯 Freelance | 📝 Tech Writing | 🎤 Speaking |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -158,13 +180,29 @@ const elham = {
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
+
 ---
 
 <div align="center">
 
-### 💬 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Let's Build Something Amazing Together!
+## 💬 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Let's Build Something Amazing Together!
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=true&width=600&lines=%E2%9C%A8+Thanks+for+visiting!+%E2%9C%A8;%F0%9F%92%BB+Let's+collaborate!+%F0%9F%92%BB;%F0%9F%9A%80+Open+for+opportunities!+%F0%9F%9A%80;%E2%98%95+Coffee+%2B+Code+%3D+Magic!+%E2%98%95" alt="Footer Typing" />
+
+<br/>
 
 ### _"The best code is the code that solves real problems for real people."_
 
@@ -176,10 +214,12 @@ const elham = {
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400">
 
 ### ⭐️ From [ElhamAbdussalam](https://github.com/ElhamAbdussalam) with 💖
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer)
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling)
 
 </div>
