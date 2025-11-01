@@ -67,10 +67,10 @@ const elham = {
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElhamAbdussalam&show_icons=true&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElhamAbdussalam&layout=compact&theme=radical&hide_border=true)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ElhamAbdussalam&theme=radical&hide_border=true)
 
 </div>
-
 
 ---
 
@@ -78,15 +78,54 @@ const elham = {
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=true&width=600&lines=%E2%9C%A8+Thanks+for+visiting!+%E2%9C%A8;%F0%9F%92%BB+Let's+collaborate!+%F0%9F%92%BB;%F0%9F%9A%80+Open+for+opportunities!+%F0%9F%9A%80;%E2%98%95+Coffee+%2B+Code+%3D+Magic!+%E2%98%95" alt="Footer Typing" />
 
+<br/><br/>
+
+## 💬 Let's Connect & Build Something Amazing!
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+
+### _"Write code for humans, optimize for machines."_
+
 <br/>
 
-### 💬 Let's Connect!
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=ElhamAbdussalam&show_icons=true&theme=transparent&hide_border=true&title_color=F75C7E&icon_color=F75C7E&text_color=888" width="400"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300">
+      <br/><br/>
+      <strong>💻 Always coding</strong><br/>
+      <strong>☕ Powered by coffee</strong><br/>
+      <strong>🚀 Ready to collaborate</strong>
+    </td>
+  </tr>
+</table>
 
-**"Write code for humans, optimize for machines."**
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ElhamAbdussalam&color=blueviolet&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=ElhamAbdussalam&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/ElhamAbdussalam?style=for-the-badge&color=blue&labelColor=1a1a1a&logo=github)
+![Stars](https://img.shields.io/github/stars/ElhamAbdussalam?style=for-the-badge&color=yellow&labelColor=1a1a1a&logo=github)
 
-⭐️ From [ElhamAbdussalam](https://github.com/ElhamAbdussalam)
+<br/>
+
+### 🌟 Available for Freelance Projects & Collaboration
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Handshake" width="150" />
+
+**📧 Email:** abdussalamelham@gmail.com  
+**🔗 LinkedIn:** [m-elham-abdussalam](https://www.linkedin.com/in/m-elham-abdussalam)  
+**🌐 Portfolio:** [portofolio-v2-umber.vercel.app](https://portofolio-v2-umber.vercel.app/)
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
+### ⭐️ From [ElhamAbdussalam](https://github.com/ElhamAbdussalam) with 💖
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
