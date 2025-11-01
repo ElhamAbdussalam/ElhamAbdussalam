@@ -67,30 +67,10 @@ const elham = {
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElhamAbdussalam&show_icons=true&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElhamAbdussalam&layout=compact&theme=radical&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ElhamAbdussalam&theme=radical&hide_border=true)
 
 </div>
 
----
-
-## 🎯 Currently Learning
-
-- Advanced Laravel Patterns & Architecture
-- Modern Frontend State Management (Redux, Pinia)
-- Microservices with PHP & Docker
-- GraphQL API Development
-- Progressive Web Apps
-
----
-
-## 💼 Open For
-
-- Full Stack Development Projects
-- Frontend Development Work
-- Open Source Contributions
-- Freelance Opportunities
-- Tech Writing & Speaking
 
 ---
 
@@ -107,8 +87,6 @@ const elham = {
 ![Profile Views](https://komarev.com/ghpvc/?username=ElhamAbdussalam&color=blueviolet&style=flat)
 
 ⭐️ From [ElhamAbdussalam](https://github.com/ElhamAbdussalam)
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
