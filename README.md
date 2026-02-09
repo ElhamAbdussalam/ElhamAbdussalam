@@ -1,17 +1,31 @@
 <div align="center">
 
-# 👋 Hey there, I'm **M. Elham Abdussalam**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=200&section=header&text=M.%20Elham%20Abdussalam&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Full%20Stack%20Developer%20|%20Tech%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
 
-### 🚀 Software Engineer | Full Stack Developer | Tech Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=100&lines=Building+Scalable+Web+Applications+%F0%9F%9A%80;Crafting+Clean+%26+Efficient+Code+%F0%9F%92%BB;Turning+Ideas+into+Reality+%E2%9C%A8;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Crafting+Clean+%26+Efficient+Code;Turning+Ideas+into+Reality;Always+Learning+%26+Growing" alt="Typing SVG" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/m-elham-abdussalam">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="https://elhamabdussalam.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=E64A19" alt="Portfolio"/>
+  </a>
+  <a href="mailto:abdussalamelham@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C5221F" alt="Email"/>
+  </a>
+  <a href="https://github.com/ElhamAbdussalam">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-elham-abdussalam)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portofolio-v2-umber.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdussalamelham@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ElhamAbdussalam)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ElhamAbdussalam&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/ElhamAbdussalam?style=for-the-badge&color=blue&labelColor=1a73e8" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/ElhamAbdussalam?style=for-the-badge&color=yellow&labelColor=f9ab00" alt="Stars"/>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ElhamAbdussalam&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
@@ -61,6 +75,8 @@ console.log(elham.getMotivation());
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 ### 💡 **What Drives Me**
 
 </div>
@@ -76,11 +92,17 @@ console.log(elham.getMotivation());
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> 🛠️ Tech Stack & Expertise
+
+</div>
 
 <div align="center">
 
-### **Frontend Development**
+### **<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> Frontend Development**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -93,7 +115,7 @@ console.log(elham.getMotivation());
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-### **Backend Development**
+### **<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30"> Backend Development**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -101,14 +123,14 @@ console.log(elham.getMotivation());
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### **Database & Caching**
+### **<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30"> Database & Caching**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### **DevOps & Tools**
+### **<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30"> DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -123,9 +145,15 @@ console.log(elham.getMotivation());
 
 </div>
 
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
+
 ---
 
-## 💼 Professional Expertise
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> 💼 Professional Expertise
 
 <table>
   <tr>
@@ -160,22 +188,61 @@ console.log(elham.getMotivation());
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> 📊 GitHub Stats & Activity
+
+</div>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElhamAbdussalam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElhamAbdussalam&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElhamAbdussalam&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElhamAbdussalam&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ElhamAbdussalam&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ElhamAbdussalam&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=ElhamAbdussalam&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ElhamAbdussalam&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElhamAbdussalam/ElhamAbdussalam/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ElhamAbdussalam/ElhamAbdussalam/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ElhamAbdussalam/ElhamAbdussalam/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
 ---
 
-## 🚀 Current Focus
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 🚀 Current Focus & Learning
+
+</div>
 
 <div align="center">
+
+<table>
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60" />
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60" />
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60" />
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60" />
+    </td>
+  </tr>
+</table>
 
 | 🎯 Area | 📝 Details |
 |---------|-----------|
@@ -190,7 +257,13 @@ console.log(elham.getMotivation());
 
 ---
 
-## 🎯 Professional Highlights
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> 🎯 Professional Highlights
+
+</div>
 
 ```javascript
 const achievements = {
@@ -223,7 +296,13 @@ const achievements = {
 
 ---
 
-## 💻 Code Philosophy
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> 💻 Code Philosophy
+
+</div>
 
 <div align="center">
 
@@ -264,39 +343,93 @@ class DevelopmentPrinciples:
 
 ---
 
-## 🌟 Let's Build Something Amazing!
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="40"> 🌟 Let's Build Something Amazing!
+
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
+
+</div>
 
 <div align="center">
 
 ### 📬 **Get In Touch**
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+<p>I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.</p>
 
-[![Email](https://img.shields.io/badge/📧_Email-abdussalamelham@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdussalamelham@gmail.com)
+<p align="center">
+  <a href="mailto:abdussalamelham@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-abdussalamelham@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C5221F" alt="Email"/>
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_with_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-elham-abdussalam)
+<p align="center">
+  <a href="https://www.linkedin.com/in/m-elham-abdussalam">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect_with_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0066A5" alt="LinkedIn"/>
+  </a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portofolio-v2-umber.vercel.app/)
+<p align="center">
+  <a href="https://elhamabdussalam.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=E64A19" alt="Portfolio"/>
+  </a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/👨‍💻_GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ElhamAbdussalam)
+<p align="center">
+  <a href="https://github.com/ElhamAbdussalam">
+    <img src="https://img.shields.io/badge/👨‍💻_GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
 ### 🤝 **Open to:**
 
-- 💼 Full-time opportunities
-- 🚀 Freelance projects
-- 🤝 Technical collaborations
-- 📚 Knowledge sharing
-- 🌱 Open source contributions
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="50" /><br/>
+      <b>Full-time<br/>Opportunities</b>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://user-images.githubusercontent.com/74038190/216122003-15d6155a-14f5-4f75-bc30-12218f2f0e84.png" width="50" /><br/>
+      <b>Freelance<br/>Projects</b>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" /><br/>
+      <b>Technical<br/>Collaborations</b>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="50" /><br/>
+      <b>Knowledge<br/>Sharing</b>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50" /><br/>
+      <b>Open Source<br/>Contributions</b>
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20for%20Visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=180&section=footer&text=Thanks%20for%20Visiting!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
 
-**⭐ From [ElhamAbdussalam](https://github.com/ElhamAbdussalam) with ❤️**
+<div align="center">
 
-![Followers](https://img.shields.io/github/followers/ElhamAbdussalam?style=social)
-![Stars](https://img.shields.io/github/stars/ElhamAbdussalam?style=social)
+**⭐ From [ElhamAbdussalam](https://github.com/ElhamAbdussalam) • Made with ❤️ and ☕**
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ElhamAbdussalam?style=for-the-badge&color=blue&labelColor=1a73e8&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/ElhamAbdussalam?style=for-the-badge&color=yellow&labelColor=f9ab00&logo=github" alt="Stars"/>
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-success?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 </div>
