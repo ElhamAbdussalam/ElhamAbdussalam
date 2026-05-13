@@ -24,4 +24,3 @@ Terbuka untuk **full-time roles**, **freelance projects**, dan **open source col
 ## Contact
 
 - 📫 abdussalamelham@gmail.com  
-- 💬 Ask me about **Laravel**, **Vue**, or **React**
