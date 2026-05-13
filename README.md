@@ -5,7 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-elham-abdussalam)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://elhamabdussalam.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abdussalamelham@gmail.com)
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-1D9E75?style=flat&logo=circle&logoColor=white)
 
 </div>
 
