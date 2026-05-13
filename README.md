@@ -12,11 +12,11 @@
 
 ## About
 
-Membangun full-stack web applications yang robust dengan fokus pada clean architecture dan high performance.
+Building robust and scalable full-stack web applications with a strong focus on clean architecture, maintainability, and high performance.
 
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
+"First, solve the problem. Then, write the code." — John Johnson
 
-Terbuka untuk **full-time roles**, **freelance projects**, dan **open source collaborations**.
+Open to full-time opportunities, freelance projects, and open-source collaborations.
 
 ---
 
