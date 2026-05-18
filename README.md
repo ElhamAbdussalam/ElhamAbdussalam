@@ -1,7 +1,6 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0C447C,100:1E88E5&height=220&section=header&text=M.%20Elham%20Abdussalam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Indonesia%20🇮🇩&descAlignY=58&descSize=18)
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Full+Stack+Developer+%7C+MERN+Stack;Clean+Architecture+Enthusiast;Open+Source+Contributor;Always+Learning+New+Technologies" />
 
 <br/>
