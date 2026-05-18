@@ -16,24 +16,23 @@
 # 💫 About Me
 
 ```javascript
-const elham = {
-  role: "Full Stack Developer",
-  specialization: ["MERN Stack", "REST API", "Laravel", "Node.js"],
-  focus: ["Scalable Architecture", "Performance", "Clean Code"],
-  currentlyLearning: ["System Design", "Cloud Deployment", "Microservices"],
-  openTo: ["Full-time Opportunities", "Freelance Projects", "Open Source"],
+const developer = {
+  name: "M. Elham Abdussalam",
+  role: "Software Engineer",
+  passion: ["Backend Development", "System Architecture", "Clean Code"],
+  mindset: "Build scalable, maintainable, and impactful products",
 };
 ```
 
-🚀 Passionate about building robust and scalable web applications with clean architecture and maintainable code.
+🚀 Full Stack Developer focused on building modern web applications with scalable architecture and efficient backend systems.
 
-💡 Strong interest in backend engineering, API development, and modern frontend technologies.
+💻 Experienced in developing RESTful APIs, multi-tenant SaaS platforms, and responsive frontend interfaces.
 
-⚡ Believer in continuous learning and creating impactful digital products.
+⚡ Always exploring new technologies, improving problem-solving skills, and writing clean, maintainable code.
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+🌱 Currently learning advanced backend architecture, cloud deployment, and system design.
 
----
+> *"Code is not just about functionality — it's about creating solutions that last."*
 
 
 ---
