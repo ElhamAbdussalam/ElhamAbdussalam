@@ -24,16 +24,12 @@ const developer = {
 };
 ```
 
-🚀 Full Stack Developer focused on building modern web applications with scalable architecture and efficient backend systems.
-
-💻 Experienced in developing RESTful APIs, multi-tenant SaaS platforms, and responsive frontend interfaces.
-
-⚡ Always exploring new technologies, improving problem-solving skills, and writing clean, maintainable code.
-
-🌱 Currently learning advanced backend architecture, cloud deployment, and system design.
+🚀 Full Stack Developer building production-ready web apps — from robust **Node.js/Express APIs** to fast, responsive **React/Next.js** interfaces, and **Laravel-based systems** when the project calls for it.
+💻 Experienced in RESTful APIs, multi-tenant SaaS platforms, and clean, scalable backend architecture.
+⚡ Focused on writing code that's easy to maintain, hand off, and scale — not just code that works.
+🌱 Currently deepening skills in backend architecture, cloud deployment, and system design.
 
 > *"Code is not just about functionality — it's about creating solutions that last."*
-
 
 ---
 
